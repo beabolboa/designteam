@@ -19,6 +19,7 @@ article {
   margin-right:5px;
   height: 220px;
   padding-top: 10px;
+  margin-bottom: 100px;
 }
 
 .adentro {
@@ -92,7 +93,7 @@ a:hover {
  font-weight: bold; 
 }
 .about {
-  margin-top: 400px;
+  margin-top: 320px;
   text-align: justify;
 }
 
@@ -106,14 +107,13 @@ a:hover {
 
 #tpa {
   margin-top: 150px;
-  padding-bottom: 400px;
 }
 
 article img {
   padding-top: 10px;
-  margin-top:100px;
+  margin-top:10px;
+  margin-bottom: 30px;
 }
-
 
 
 .nav {
@@ -136,6 +136,18 @@ article img {
   position: absolute;
   top:400px;
   left:1000px;
+}
+
+.bar4{
+  position: absolute;
+  top:740px;
+  left:360px;
+}
+
+.bar5{
+  position: absolute;
+  top:740px;
+  left:680px;
 }
 
 .quote {
@@ -163,11 +175,55 @@ article img {
 
 .con {
  position: absolute;
-  top: 300px;
-  left: 1000px; 
+  top: 400px;
+  left: 980px; 
+  font-size: 20px;
 }
 
-.ca {
-  padding-top: 200px;
+.ca  {
+  padding-top: 85px;
+}
+
+.ca  a{
   font-size: 30px;
+}
+
+.bar11{
+  position: absolute;
+  top:350px;
+  left:320px;
+}
+
+.bar22{
+  position: absolute;
+  top:350px;
+  left:640px;
+}
+
+.bar33{
+  position: absolute;
+  top:350px;
+  left:960px;
+}
+
+.bar44{
+ position: absolute;
+  top:660px;
+  left:320px;
+}
+
+.bar55{
+  position: absolute;
+  top:660px;
+  left:640px;
+}
+
+.bar66{
+  position: absolute;
+  top:660px;
+  left:960px;
+}
+
+.con article {
+  float:right;
 }
